@@ -1,0 +1,11 @@
+{"menus":[
+    {"section":"Resources","items":
+    [
+        {"title":"Пользователи","url":"\/admin\/users"},
+        {"title":"Роли","url":"\/admin\/roles"},
+        {"title":"Разрешения","url":"\/admin\/permissions"},
+        {"title":"Предметы","url":"\/admin\/subjects"},
+        {"title":"Группы","url":"\/admin\/groups"},
+        {"title":"Оценки","url":"\/admin\/ratings"}
+    ]}
+   ]}
